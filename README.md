@@ -2,7 +2,7 @@
 
 A barebones Laravel App.
 
-This application supports the [Getting Started with Node on Heroku](https://devcenter.heroku.com/articles/getting-started-with-laravel) article - check it out.
+This application supports the [Getting Started with Laravel on Heroku](https://devcenter.heroku.com/articles/getting-started-with-laravel) article - check it out.
 
 ## Running Locally
 
