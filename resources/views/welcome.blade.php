@@ -1,0 +1,12 @@
+@extends('layouts.app')
+
+@section('content')
+<style>
+    footer {}
+</style>
+
+<div class="container">
+    <h1>Hello World</h1>
+</div>
+
+@endsection
